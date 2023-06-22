@@ -1,0 +1,20 @@
+.container
+{
+    height: 300px;
+    width: 500px;
+    border: 9px solid yellowgreen;
+    margin: auto;
+    margin-top: 200px;
+    background-color: palevioletred;
+}
+body{
+    background-image: url(https://st4.depositphotos.com/10325396/20894/i/600/depositphotos_208944442-stock-photo-digital-code-number-abstract-background.jpg); 
+    background-repeat: no-repeat;
+background-size: cover;
+}
+#result
+{
+    height: 50px;
+    width: fit-content;
+  margin: auto;
+}
